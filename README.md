@@ -8,7 +8,7 @@ Themes have three methods of installation which is immediately confusing for new
 
 - **As A Template:** This is the easiest method. Simply navigate to the repo homepage and click the button that says "Use This Template". It will prompt you to create a new repo under your account using this template. Then you just go to settings > pages and serve it up.
 - **As A Gem:** Just change the line in your Gemfile for remote themes and use `gem "jekyll-base"` then when you `bundle install` it will add all the files you need.
-- **Download:** Download the repo as a ZIP and then navigate to it and `jekyll serve`
+- **Download:** Download the repo as a ZIP and then navigate to it and do `bundle install` then `jekyll serve`
 
 ## [Base v0.0.1](https://github.com/jekyllgems/base)
 
