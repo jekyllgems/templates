@@ -16,4 +16,4 @@ This is just the bare bones Jekyll site. I update this periodically to add more 
 
 ## ["Jekyll BS5" Starter Template v0.0.1](https://github.com/jekyllgems/bs5-starter)
 
-This is the Bootstrap v5.3 "Blog" template you can find in simple html on https://getbootstrap.com made into a jekyll theme by adding posts and blog etc. You can download it, use it as a template, or install as a gem.
+This is the Bootstrap v5.3 starter template you can find in simple html on https://getbootstrap.com made into a jekyll theme. You can download it, use it as a template, and use it to create your own custom templates.
